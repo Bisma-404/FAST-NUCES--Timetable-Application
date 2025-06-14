@@ -69,7 +69,7 @@ This desktop application simplifies academic scheduling and resolves classroom/t
 ## Usage
 ### Student Flow
 1. Launch app → Select **Student**
-2. Enter roll number (e.g., `24k-2558`)
+2. Enter roll number (e.g., `24k-1234`)
 3. Choose department and section
 4. View your personalized weekly timetable
 
