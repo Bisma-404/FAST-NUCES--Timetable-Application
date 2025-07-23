@@ -2,9 +2,18 @@
 
 A comprehensive, Java Swing-based Timetable Management System designed specifically for **FAST NUCES**. This application provides role-based access and real-time timetable scheduling for students, teachers, and administrators.
 
+---
+
+## Preview
+![Timetable preview Preview](image/timetable-front.png)
+
+---
+
 ## Overview
 
 This desktop application simplifies academic scheduling and resolves classroom/teacher conflicts through a clean, intuitive interface. It uses object-oriented design, modular components, and persistent data storage—making it both practical and extensible.
+
+---
 
 ## Key Features
 
@@ -39,13 +48,16 @@ This desktop application simplifies academic scheduling and resolves classroom/t
 ### 7. Consolidated Views  
 - Teachers see a **unified timetable** combining all their assigned courses across batches/sections.  
 - Admins can **search/filter** timetables by batch, department, or teacher name.
-- 
+
+---
 
 ## Why It Stands Out
 
 - ✅ **Scalable**: Handles large student/teacher datasets without a database  
 - ✅ **Zero Dependencies**: Built in pure Java — no third-party libraries required  
 - ✅ **Institutional Fit**: Tailored for FAST NUCES’s academic hierarchy and structure
+
+---
 
 
 ## System Architecture
@@ -65,6 +77,7 @@ This desktop application simplifies academic scheduling and resolves classroom/t
 - `.dat` serialized files for object storage (rooms, assignments)
 - JSON-like structures for section/department management
 
+---
 
 ## Usage
 ### Student Flow
@@ -86,6 +99,7 @@ This desktop application simplifies academic scheduling and resolves classroom/t
    - Assign courses to teachers
    - Allocate rooms and detect conflicts
 
+---
 
 ## Requirements
 
@@ -93,6 +107,7 @@ This desktop application simplifies academic scheduling and resolves classroom/t
 - No external libraries required
 - Compatible with Windows, macOS, and Linux (GUI tested on Windows)
 
+---
 
 ## Future Improvements
 
@@ -102,6 +117,7 @@ This desktop application simplifies academic scheduling and resolves classroom/t
 - Unit testing for business logic and file handling
 - Configurable paths for file storage
 
+---
 
 ## License
 
